@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\bin\Debug\net10.0\dtprimitivos.exe
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\bin\Debug\net10.0\dtprimitivos.deps.json
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\bin\Debug\net10.0\dtprimitivos.runtimeconfig.json
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\bin\Debug\net10.0\dtprimitivos.dll
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\bin\Debug\net10.0\dtprimitivos.pdb
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.AssemblyInfo.cs
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.dll
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\refint\dtprimitivos.dll
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.pdb
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\dtprimitivos.genruntimeconfig.cache
+C:\Users\USER\Documents\Tarea 2\dtprimitivos\obj\Debug\net10.0\ref\dtprimitivos.dll
